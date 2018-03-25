@@ -10,3 +10,7 @@ Advanced (or simply not trivial) concepts of: Math, Computer Science and Statist
 ## Graphs
 
 * [Laplacian matrix](https://en.wikipedia.org/wiki/Laplacian_matrix)
+
+## Geometry
+
+* [Mahalanobis distance](https://www.youtube.com/watch?v=spNpfmWZBmg)
