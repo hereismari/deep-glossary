@@ -7,6 +7,10 @@ Advanced (or simply not trivial) concepts of: Math, Computer Science and Statist
 * [linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 * [eigenvectors and eigenvalues](https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
+## Evaluation Metrics
+
+* [AUC and ROC curves](https://www.youtube.com/watch?v=OAl6eAyP-yo)
+
 ## Graphs
 
 * [Laplacian matrix](https://en.wikipedia.org/wiki/Laplacian_matrix)
