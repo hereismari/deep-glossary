@@ -1,6 +1,6 @@
 # Deep Glossary
 
-Advanced (or simply not trivial) concepts of: Math, Computer Science and Statistics related to Deep Learning. All the terms are linked to best resource I've found online that explain these concepts, of course in my opinion only.
+Advanced (or simply not trivial) concepts of: Math, Computer Science and Statistics related to Deep Learning. All the terms are linked to the best resource I've found online about these concepts.
 
 ## Linear Algebra
 
@@ -22,3 +22,4 @@ Advanced (or simply not trivial) concepts of: Math, Computer Science and Statist
 ## Probability
 
 * [Kullback Leibler divergence](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+* [Expectation](https://www.countbayesie.com/blog/2015/3/19/expectation-and-variance-from-high-school-to-grad-school)
