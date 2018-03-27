@@ -18,3 +18,7 @@ Advanced (or simply not trivial) concepts of: Math, Computer Science and Statist
 ## Geometry
 
 * [Mahalanobis distance](https://www.youtube.com/watch?v=spNpfmWZBmg)
+
+## Probability
+
+* [Kullback Leibler divergence](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
