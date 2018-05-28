@@ -23,3 +23,4 @@ Advanced (or simply not trivial) concepts of: Math, Computer Science and Statist
 
 * [Kullback Leibler divergence](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 * [Expectation](https://www.countbayesie.com/blog/2015/3/19/expectation-and-variance-from-high-school-to-grad-school)
+* [maximum mean discrepancy (MMD)](http://alex.smola.org/teaching/iconip2006/iconip_3.pdf)
