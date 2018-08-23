@@ -7,6 +7,7 @@ Concepts of: Math, Computer Science and Statistics related to Deep Learning. All
 * [basic trignometry](https://betterexplained.com/articles/intuitive-trigonometry/)
 * [dot product](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * [cross product](https://betterexplained.com/articles/cross-product/)
+* [law of sines and law of cosines](https://www.youtube.com/watch?v=3jBMymLI8ls)
 * [linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 * [eigenvectors and eigenvalues](https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
