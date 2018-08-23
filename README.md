@@ -5,6 +5,7 @@ Concepts of: Math, Computer Science and Statistics related to Deep Learning. All
 ## Linear Algebra
 
 * [dot product](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
+* [cross product](https://betterexplained.com/articles/cross-product/)
 * [linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 * [eigenvectors and eigenvalues](https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
