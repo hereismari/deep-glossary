@@ -4,6 +4,7 @@ Concepts of: Math, Computer Science and Statistics related to Deep Learning. All
 
 ## Linear Algebra
 
+* [basic trignometry](https://betterexplained.com/articles/intuitive-trigonometry/)
 * [dot product](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * [cross product](https://betterexplained.com/articles/cross-product/)
 * [linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE)
