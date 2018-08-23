@@ -1,9 +1,10 @@
 # Deep Glossary
 
-Advanced (or simply not trivial) concepts of: Math, Computer Science and Statistics related to Deep Learning. All the terms are linked to the best resource I've found online about these concepts.
+Concepts of: Math, Computer Science and Statistics related to Deep Learning. All the terms are linked to the best resource I've found online about these concepts.
 
 ## Linear Algebra
 
+* [dot product](https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
 * [linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 * [eigenvectors and eigenvalues](https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
