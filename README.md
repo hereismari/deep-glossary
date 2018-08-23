@@ -10,6 +10,10 @@ Concepts of: Math, Computer Science and Statistics related to Deep Learning. All
 * [linear transformations](https://www.youtube.com/watch?v=kYB8IZa5AuE)
 * [eigenvectors and eigenvalues](https://www.youtube.com/watch?v=DzqE7tj7eIM)
 
+## Calculus
+
+* [basic calculus](https://betterexplained.com/articles/intuitive-trigonometry/)
+
 ## Evaluation Metrics
 
 * [AUC and ROC curves](https://www.youtube.com/watch?v=OAl6eAyP-yo)
